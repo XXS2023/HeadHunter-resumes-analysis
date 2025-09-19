@@ -33,7 +33,6 @@
 - pandas
 - numpy
 - matplotlib
-- seaborn
 - plotly
 
    ## Данные
